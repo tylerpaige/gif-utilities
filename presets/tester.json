@@ -1,0 +1,27 @@
+[
+  {
+    "name" : "SQUARE",
+    "width" : 300,
+    "height" : 300
+  },
+  {
+    "name" : "A",
+    "width" : 500,
+    "height" : 330
+  },
+  {
+    "name" : "B",
+    "width" : 250,
+    "height" : 165
+  },
+  {
+    "name" : "C",
+    "width" : 500,
+    "height" : 100
+  },
+  {
+    "name" : "D",
+    "width" : 100,
+    "height" : 500
+  }
+]

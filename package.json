@@ -1,0 +1,13 @@
+{
+  "name": "gif-utilites",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "ffmpeg": "0.0.4",
+    "gifsicle": "^3.0.4",
+    "yargs": "^7.1.0"
+  }
+}

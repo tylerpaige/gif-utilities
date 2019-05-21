@@ -1,0 +1,43 @@
+[
+  {
+    "name" : "square",
+    "width" : 612,
+    "height" : 612
+  },
+  {
+    "name" : "square_2x",
+    "width" : 1224,
+    "height" : 1224
+  },
+  {
+    "name" : "3-by-2",
+    "width" : 600,
+    "height" : 200
+  },
+  {
+    "name" : "3-by-2_2x",
+    "width" : 1200,
+    "height" : 400
+  },
+  {
+    "name" : "landscape",
+    "width" : 612,
+    "height" : 344
+  },
+  {
+    "name" : "landscape_2x",
+    "width" : 1224,
+    "height" : 689
+  },
+  {
+    "name" : "portrait",
+    "width" : 344,
+    "height" : 612
+  },
+  {
+    "name" : "portrait_2x",
+    "width" : 689,
+    "height" : 1224
+  }
+
+]
